@@ -44,7 +44,7 @@
 ### 📫 Cómo contactarme
 
 📧 **Email:** alejandro129guzman@gmail.com 
-🌐 **LinkedIn:** [[linkedin.com/in/Alejandro Guzman](https://www.linkedin.com/in/alejandro-guzman-a54b202a6)](#)  
+🌐 **LinkedIn:** [linkedin.com/in/Alejandro Guzman](https://www.linkedin.com/in/alejandro-guzman-a54b202a6) 
 
 ---
 
