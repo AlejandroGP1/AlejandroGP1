@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- Encabezado animado -->
 <h1 align="center">Hola! 👋 Soy Alejandro Guzmán</a></h1>
@@ -27,8 +26,14 @@
 
 ### 🚀 Algunos de mis proyectos
 
-- 🎮 **[Juego RPG por turnos]([#](https://xezardev.itch.io/vs-arial))** — proyecto personal hecho en Unity
-- ♠️ **[Juego de cartas de JavaScript](#)** — proyecto de javascript en el que se emplearon LLM
+- 🎮 **[Juego BulletHell por turnos inspirado en Undertale](https://xezardev.itch.io/vs-arial)** — proyecto personal hecho en Unity  
+        🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4)
+
+- ♠️ **[Juego de cartas en JavaScript](#)** — proyecto en el que se emplearon LLM
+       🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4) HACER UN VIDEOOOSSS
+  
+- 🔥 **[Juego RPG por turnos en JavaScript](https://juegorpg.vercel.app)** — proyecto estilo clásico con batallas, de mis practicas de primero con LLM
+      🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4) CAMBIARRRRRR
 
 
 ---
