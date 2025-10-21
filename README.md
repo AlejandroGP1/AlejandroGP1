@@ -26,12 +26,9 @@
 
 ### 🚀 Algunos de mis proyectos
 
-- 🎮 **[Juego RPG por turnos](#)** — proyecto personal hecho en JavaScript  
-- 🧩 **[App de notas Android](#)** — creada con Kotlin y Jetpack Compose  
-- ⚙️ **[Gestor de taller mecánico (SQL)](#)** — base de datos completa con Oracle  
-- 🎧 **[Control de volumen en Unity](#)** — menú de opciones con animaciones  
+- 🎮 **[Juego RPG por turnos](#)** — proyecto personal hecho en Unity
+- 🎧 **[Control de volumen en Unity](#)** — proyecto de javascript en el que se emplearon LLM
 
-*(Los iré subiendo poco a poco mientras los mejoro 👨‍💻)*
 
 ---
 
@@ -46,9 +43,8 @@
 
 ### 📫 Cómo contactarme
 
-📧 **Email:** tuemail@example.com  
-🌐 **LinkedIn:** [linkedin.com/in/tu-nombre](#)  
-💬 Siempre abierto a charlar sobre proyectos o ideas nuevas :)
+📧 **Email:** alejandro129guzman@gmail.com 
+🌐 **LinkedIn:** [[linkedin.com/in/Alejandro Guzman](https://www.linkedin.com/in/alejandro-guzman-a54b202a6)](#)  
 
 ---
 
