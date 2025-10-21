@@ -19,7 +19,7 @@
 ### 🛠️ Tecnologías que uso o estoy aprendiendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,cpp,html,css,javascript,mysql,git,github,vscode,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,xml,html,css,javascript,git,github,vscode,unity&theme=dark" />
 </p>
 
 ---
