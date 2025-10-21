@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- Encabezado animado -->
-<h1 align="center">¡Hola! 👋 Soy <a href="https://github.com/TU-USUARIO" target="_blank">Alejandro Guzmán</a></h1>
-<h3 align="center">💻 Estudiante de 2º DAM | Apasionado por el desarrollo multiplataforma 🚀</h3>
+<h1 align="center">Hola! 👋 Soy Alejandro Guzmán</a></h1>
+<h3 align="center">💻 Estudiante de 2º DAM de el desarrollo multiplataforma </h3>
 
 ---
 
