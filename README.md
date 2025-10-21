@@ -11,7 +11,7 @@
 💡 Me encanta crear proyectos que mezclen **creatividad + tecnología**  
 🔭 Estoy aprendiendo más sobre **Python, Kotlin, C, SQL y desarrollo Android**  
 🧠 Siempre buscando mejorar mi lógica y escribir código limpio  
-🎮 También disfruto creando **pequeños juegos y proyectos personales**
+🎮 También disfruto creando **pequeños juegos y proyectos personales**  
 🖌️ Soy artista digital desde hace muchos años uso ClipStudioPaint y se hacer animaciones con Unity y más
 
 ---
