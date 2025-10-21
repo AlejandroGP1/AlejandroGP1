@@ -26,22 +26,13 @@
 
 ### 🚀 Algunos de mis proyectos
 
-- 🎮 **[Juego RPG por turnos](#)** — proyecto personal hecho en Unity
-- 🎧 **[Control de volumen en Unity](#)** — proyecto de javascript en el que se emplearon LLM
+- 🎮 **[Juego RPG por turnos]([#](https://xezardev.itch.io/vs-arial))** — proyecto personal hecho en Unity
+- ♠️ **[Juego de cartas de JavaScript](#)** — proyecto de javascript en el que se emplearon LLM
 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 📫 Cómo contactarme
+### 📫 Contacto
 
 📧 **Email:** alejandro129guzman@gmail.com 
 🌐 **LinkedIn:** [linkedin.com/in/Alejandro Guzman](https://www.linkedin.com/in/alejandro-guzman-a54b202a6) 
@@ -54,6 +45,6 @@
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡El café y el código son mi día a día!* ☕
+⭐ *Gracias por leer!* ☕
 
 
