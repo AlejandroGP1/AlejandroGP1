@@ -6,8 +6,7 @@
 ---
 
 <h3 align="center">🌱 Sobre mí</h3>
-
-
+<br>
 
 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💡 Me encanta crear proyectos que mezclen **creatividad + tecnología**  
@@ -19,7 +18,7 @@
 ---
 
 <h3 align="center">🛠️ Tecnologías que uso o estoy aprendiendo </h3>
-
+<br>
 
 
 <p align="center">
@@ -30,7 +29,7 @@
 
 <h3 align="center">🚀 Algunos de mis proyectos</h3>
 
-
+<br>
 
 - 🎮 **[Juego BulletHell por turnos inspirado en Undertale](https://xezardev.itch.io/vs-arial)** — proyecto personal hecho en Unity  
         🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4)
@@ -45,7 +44,7 @@
 ---
 
 <h3 align="center">📫 Contacto</h3>
-
+<br>
 
 
 📧 **Email:** alejandro129guzman@gmail.com 
