@@ -3,6 +3,7 @@
 <h1 align="center">Hola! 👋 Soy Alejandro Guzmán</a></h1>
 <h3 align="center">💻 Estudiante de 2º DAM de desarrollo de aplicaciones multiplataforma </h3>
 
+---
 
 
 <h3 align="center">🌱 Sobre mí</h3>
@@ -15,7 +16,7 @@
 🎮 También disfruto creando **pequeños juegos y proyectos personales**  
 🖌️ Soy artista digital desde hace muchos años uso ClipStudioPaint y se hacer animaciones con Unity y más
 
-
+---
 
 <h3 align="center">🛠️ Tecnologías que uso o estoy aprendiendo </h3>
 <br>
@@ -25,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,html,css,javascript,git,github,vscode,unity&theme=dark" />
 </p>
 
+---
 
 
 <h3 align="center">🚀 Algunos de mis proyectos</h3>
@@ -41,6 +43,7 @@
       🎥 [Ver tráiler en YouTube]([(https://youtu.be/uG6Nh8M9YJI)]) 
 
 
+---
 
 
 <h3 align="center">📫 Contacto</h3>
