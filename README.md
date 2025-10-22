@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,html,css,javascript,git,github,vscode,clipstudio,,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,html,css,javascript,git,github,vscode,clipstudio,unity&theme=dark" />
 </p>
 
 ---
