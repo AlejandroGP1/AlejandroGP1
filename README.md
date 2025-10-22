@@ -36,12 +36,12 @@
 
 - 🎮 **[Juego BulletHell por turnos inspirado en Undertale](https://xezardev.itch.io/vs-arial)** — proyecto personal hecho en Unity  
         🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4)
-
-- ♠️ **[Juego de cartas en JavaScript](#)** — proyecto en el que se emplearon LLM<br>
-       🎥 [Ver tráiler en YouTube](https://youtu.be/PUToXICqzNE) HACER UN VIDEOOOSSS
   
 - 🔥 **[Juego RPG por turnos en JavaScript](https://juegorpg.vercel.app)** — proyecto estilo clásico con batallas, de mis practicas de primero con LLM<br>
-      🎥 [Ver tráiler en YouTube](https://youtu.be/uG6Nh8M9YJI) 
+      🎥 [Ver tráiler en YouTube](https://youtu.be/uG6Nh8M9YJI)
+
+- ♠️ **[Juego de cartas en JavaScript](#)** — proyecto en el que se emplearon LLM<br>
+       🎥 [Ver tráiler en YouTube](https://youtu.be/PUToXICqzNE)
 
 
 ---
