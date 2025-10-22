@@ -38,7 +38,7 @@
         🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4)
 
 - ♠️ **[Juego de cartas en JavaScript](#)** — proyecto en el que se emplearon LLM<br>
-       🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4) HACER UN VIDEOOOSSS
+       🎥 [Ver tráiler en YouTube](https://youtu.be/PUToXICqzNE) HACER UN VIDEOOOSSS
   
 - 🔥 **[Juego RPG por turnos en JavaScript](https://juegorpg.vercel.app)** — proyecto estilo clásico con batallas, de mis practicas de primero con LLM<br>
       🎥 [Ver tráiler en YouTube](https://youtu.be/uG6Nh8M9YJI) 
