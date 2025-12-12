@@ -11,10 +11,10 @@
 
 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💡 Me encanta crear proyectos que mezclen **creatividad + tecnología**  
-🔭 Estoy aprendiendo más sobre **Python, Kotlin, C, SQL y desarrollo Android**  
-🧠 Siempre buscando mejorar mi lógica y escribir código limpio  
-🎮 También disfruto creando **pequeños juegos y proyectos personales**  
-🖌️ Soy artista digital desde hace muchos años uso ClipStudioPaint y se hacer animaciones con Unity y más
+🔭 Estoy aprendiendo más sobre **Python, Kotlin, C, SQL y desarrollo Android** sobretodo me manejo en C# con unity, Java , JFrame... 
+🧠 Siempre busco mejorar mi lógica y escribir código limpio ademas de nuevos retos de programacion. 
+🎮 También disfruto creando **pequeños juegos y proyectos personales**
+🖌️ Soy artista digital desde hace muchos años uso ClipStudioPaint y se hacer animaciones con Unity y más programas de edicion de video.
 
 ---
 
