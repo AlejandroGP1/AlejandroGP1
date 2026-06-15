@@ -34,6 +34,8 @@
 
 <br>
 
+- ⭕ **[Interfaz gráfica con Gesture Control, con reproductor de música, calendario, juego, termometro, multitasking de navegador...]((https://github.com/AlejandroGP1/EpsilonGit/tree/main))** - Proyecto de fin de grado superior con sockets y lectura de cámara con python y unity.
+
 - 🎮 **[Juego BulletHell por turnos inspirado en Undertale](https://xezardev.itch.io/vs-arial)** — proyecto personal hecho en Unity  
         🎥 [Ver tráiler en YouTube](https://www.youtube.com/watch?v=wYf0X51STp4)
   
