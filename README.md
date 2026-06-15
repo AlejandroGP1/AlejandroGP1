@@ -1,7 +1,7 @@
 
 <!-- Encabezado animado -->
 <h1 align="center">Hola! 👋 Soy Alejandro Guzmán</a></h1>
-<h3 align="center">💻 Estudiante de 2º DAM de desarrollo de aplicaciones multiplataforma </h3>
+<h3 align="center"> Programador de Epam Neoris a servicio de Telefónica </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 <h3 align="center">🌱 Sobre mí</h3>
 <br>
 
-🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🎓 Estudios completados: **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💡 Me encanta crear proyectos que mezclen **creatividad + tecnología**  
 🔭 Estoy aprendiendo más sobre **Python, Kotlin, C, SQL y desarrollo Android** sobretodo me manejo en C# con unity, Java , JFrame... 
 🧠 Siempre busco mejorar mi lógica y escribir código limpio ademas de nuevos retos de programacion. 
